@@ -17,3 +17,6 @@ turnover, or vendor dependency. The goal of this analysis is to:
   efficiency. 
   ● Investigate the profitability variance between high-performing and 
   low-performing vendors. 
+
+
+data set data link which is used for the project https://drive.google.com/drive/folders/1vRBK7guSIHJzwHgAeGge4EZQOsUOG19q?usp=sharing
