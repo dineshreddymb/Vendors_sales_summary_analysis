@@ -19,4 +19,4 @@ turnover, or vendor dependency. The goal of this analysis is to:
   low-performing vendors. 
 
 
-data set data link which is used for the project [data](url)
+data set data link which is used for the project https://drive.google.com/drive/folders/1vRBK7guSIHJzwHgAeGge4EZQOsUOG19q?usp=sharing
