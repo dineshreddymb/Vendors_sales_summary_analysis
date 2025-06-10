@@ -20,3 +20,8 @@ turnover, or vendor dependency. The goal of this analysis is to:
 
 
 data set data link which is used for the project https://drive.google.com/drive/folders/1vRBK7guSIHJzwHgAeGge4EZQOsUOG19q?usp=sharing
+
+
+# VENDORS PERFORMANCE SUMMARY DASHBOARD
+![vendor_performance_dashboard](https://github.com/user-attachments/assets/5a6d8485-e692-4650-9ef9-0b702d1e09e2)
+
